@@ -32,7 +32,7 @@
   },
   "buildpacks": [
     {
-      "url": "heroku/jvm"
+      "url": "https://github.com/heroku/heroku-buildpack-jvm-common"
     },
     {
       "url": "https://github.com/ren232/mcgg"
